@@ -25,13 +25,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/screenshot_desktop.png)
-![](./images/screenshot_mobile.png)
+![Screenshot_desktop](/images/screenshot_desktop.png)
+![Screenshot_mobile](/images/screenshot_mobile.png)
 
 ### Links
 
-- Solution URL: [Github]()
-- Live Site URL: [Live Demo]()
+- Solution URL: [Github](https://github.com/AlexRFarnes/Single-price-grid-component)
+- Live Site URL: [Live Demo](https://romantic-hoover-422c22.netlify.app/)
 
 ## My process
 
